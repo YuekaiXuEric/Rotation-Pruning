@@ -1,7 +1,6 @@
 # Roation + Pruning
 
 ## Setup
-Installation instructions can be found in [INSTALL.md](INSTALL.md).
 
 Below is an example command for pruning LLaMA2-7B with Rotation and Sparsegpt, to achieve unstructured 50% sparsity.
 Step 1:
